@@ -28,6 +28,6 @@ Enjoy the game! 🚀
 
 <h1>Screenshot Examples 📸</h1>
  
-![Game Start](start.png)  
-![Gameplay](mid.png)  
-![End](end.png)  
+<img src="./Images/start.png" alt="Game Start" width="600"/>  
+<img src="./Images/mid.png" alt="Gameplay" width="600"/>
+<img src="./Images/end.png" alt="Gameplay" width="600"/>
