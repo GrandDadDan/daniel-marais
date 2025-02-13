@@ -7,23 +7,14 @@ A classic Tic Tac Toe game built using React, Node.js, and Firebase. Play agains
 ✔️ Real-time updates with Firebase
 
 <h2>Installation</h2>
-Clone the repository:
-bash
-Copy
-Edit
+
+- Clone the repository: bash
 git clone https://github.com/GrandDadDan/daniel-marais.git
-cd daniel-marais
-<br>
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-Run the app:
-bash
-Copy
-Edit
-npm start
+
+- Open the code/project with code editor
+
+- Right Click and run the index file in the browser
+
 Enjoy the game! 🚀
 
 <h2>Screenshot Examples 📸</h2>
