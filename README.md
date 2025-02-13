@@ -27,7 +27,8 @@ npm start
 Enjoy the game! 🚀
 
 <h1>Screenshot Examples 📸</h1>
- 
+ <p align="center">
 <img src="./Images/start.png" alt="Game Start" width="600"/>  
 <img src="./Images/mid.png" alt="Gameplay" width="600"/>
 <img src="./Images/end.png" alt="Gameplay" width="600"/>
+</p>
