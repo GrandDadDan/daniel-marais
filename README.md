@@ -28,5 +28,6 @@ Enjoy the game! 🚀
 
 <h1>Screenshot Examples 📸</h1>
  
-![Game Start](path-to-your-image.png)  
-![Gameplay](path-to-your-image2.png)  
+![Game Start](start.png)  
+![Gameplay](mid.png)  
+![End](end.png)  
